@@ -20,6 +20,7 @@
     "@angular/material": "18.2.6",
     "@angular/platform-browser": "18.2.6",
     "@angular/platform-browser-dynamic": "18.2.6",
+    "@angular/platform-server": "^16.2.12",
     "@angular/router": "18.2.6",
     "@angular/ssr": "18.2.6",
     "@cloudinary/ng": "^2.1.1",
